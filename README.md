@@ -60,4 +60,4 @@ What does the site feature?
     - Implications for revenue (ads)
         1. 
     - Implications for fundraising/donating to charity
-        1. 
+        1. Automated, "Thank you," messages 
