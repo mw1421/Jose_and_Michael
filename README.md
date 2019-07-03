@@ -21,7 +21,7 @@ What is our site about? (IDEAS, best ideas have many ****)
 * Environmental issues that need attention
 * Promoting good environmental practices
 
-What is the goal of the site?
+What is the goal of the site? (in no particular order)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 * Linkedin Cred
 * Get experience with git and coding in html
