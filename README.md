@@ -25,7 +25,7 @@ What is the goal of the site?
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 * Linkedin Cred
 * Get experience with git and coding in html
-* 
+* Spread awareness of environmental issues happening in the US, and internationally.
 
 
 What is our site name?
@@ -41,7 +41,7 @@ What does the site feature?
 -=-=-=-=-=-=-=-=-=-=-=-=-=-
 * Security certificate (Let's Encrypt)
     - Implications:
-        1. 
+        1. See https://letsencrypt.org/getting-started/
 * Dedicated domain name
     - Implications:
         1. 
