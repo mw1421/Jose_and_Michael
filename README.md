@@ -39,12 +39,19 @@ What is our site name?
 
 What does the site feature?
 -=-=-=-=-=-=-=-=-=-=-=-=-=-
-* Security certificate (Let's Encrypt)
-    - Implications:
-        1. See https://letsencrypt.org/getting-started/
+* Security certificate (CHOOSE 1)
+    - Implications for Let's Encrypt:
+        1. Free always.
+        2. Automatic renewal
+        3. See https://letsencrypt.org/getting-started/
+    - Implications for Comodo:
+        1. 90 days free, rest paid. See link.
+        2. https://ssl.comodo.com/free-ssl-certificate.php
 * Dedicated domain name
     - Implications:
         1. 
-* Interactive UI (Parallax)
-    - Implications:
+* Interactive UI
+    - Implications for Parallax:
+        1. 
+    - Implications for Floating Social Media Bar
         1. 
