@@ -3,7 +3,7 @@ This is where all of our ish will be.
 
 Brainstorm area
 -=-=-=-=-=-=-=-
-* My first thought is creating an environmental social media. We would have users, 
+* My first thought is creating an environmental social media site. We would have users, 
 and those users can post about their eagle scout projects, conservation projects,
 trash cleanups, beach cleanups, volunteer opportunities, fundraising and charities, etc.
 Users would be able to donate to the site in a way that they can choose to donate to us,
@@ -26,6 +26,7 @@ What is the goal of the site? (in no particular order)
 * Linkedin Cred
 * Get experience with git and coding in html
 * Spread awareness of environmental issues happening in the US, and internationally.
+* NONPROFIT
 
 
 What is our site name?
@@ -54,4 +55,9 @@ What does the site feature?
     - Implications for Parallax:
         1. 
     - Implications for Floating Social Media Bar
+        1. 
+* Donations
+    - Implications for revenue (ads)
+        1. 
+    - Implications for fundraising/donating to charity
         1. 
