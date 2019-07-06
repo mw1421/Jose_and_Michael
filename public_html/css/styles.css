@@ -1,6 +1,7 @@
 body, html {
     height: 100%; 
     margin: auto;
+    scroll-behavior: smooth;
 }
 
 
@@ -63,7 +64,6 @@ section {
     float: left;
     margin: 1% 1.5%;
     width: 63%;
-    border-radius: 6px;
     padding-left: 5px;
 }
 
@@ -72,7 +72,6 @@ aside{
     float: right;
     margin: 1% 1.5%;
     width: 30%;
-    border-radius: 6px;
     padding-left: 5px;
 }
 
@@ -80,7 +79,7 @@ aside{
     text-align: center;
     color: white;
     font-family: 'Merriweather', serif;
-    background-color: rgb(211,211,211, 0.5);
+    background-color: rgb(128,128,128, 0.75);
     width: 50%;
     position:relative;
     top: 30%;
@@ -88,8 +87,10 @@ aside{
     padding: 2%;
     border-radius: 6px;
 }
-
-@media screen and (max-width: 2000px) {
-  #mainNav a.right, 
-  #mainNav a {float: none;}
+.arrow {
+    height: 25px;
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 70%;
 }
