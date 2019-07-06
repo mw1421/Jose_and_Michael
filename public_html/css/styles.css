@@ -88,3 +88,8 @@ aside{
     padding: 2%;
     border-radius: 6px;
 }
+
+@media screen and (max-width: 2000px) {
+  #mainNav a.right, 
+  #mainNav a {float: none;}
+}
